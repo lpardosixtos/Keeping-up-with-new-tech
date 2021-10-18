@@ -7,7 +7,7 @@ We will add content as we have time to do it. Feel free to open issues and share
 While we happen to be mainly interested in Statistics, Data Science, Machine Learning and Deep Learning. We want to have a wide range on topics on this site.
 
 1. [Natural Language Processing.](nlp_index.md)
-2. [Image Generation.](generation_index.md)
+2. [Text-to-Image Generation.](generation_index.md)
 3. [Statistics.](statistics_index.md)
 
 Search by author! You may have been referred to this page to view someone's work. Check the contributions that each autor has made to this repository.
