@@ -10,7 +10,7 @@ While we happen to be mainly interested in Statistics, Data Science, Machine Lea
 2. [Image Generation.](generation_index.md)
 3. [Statistics.](statistics_index.md)
 
-Search by autor! You may have been refered to this page to view someone's work. Check the contributions that each autor has made to this repository.
+Search by author! You may have been referred to this page to view someone's work. Check the contributions that each autor has made to this repository.
 
 1. [lpardosixtos](Pardo.md)
 2. [marck404](Marcos.md)
