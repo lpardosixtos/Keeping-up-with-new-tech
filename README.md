@@ -10,6 +10,13 @@ While we happen to be mainly interested in Statistics, Data Science, Machine Lea
 2. [Text-to-Image Generation.](generation_index.md)
 3. [Statistics.](statistics_index.md)
 
+We understand that frameworks and programming languages are key to developing new technology. And we want to share with you tips and bits of knowledge that we have collected. Do you think some of this can be better? Open an issue and tell us how! there is always room for improvement.
+
+1. [Pytorch](tools/pytorch_index.md)
+2. [C++](tools/cpp_index.md)
+3. [Python](tools/python_index.md)
+4. [R](tools/r_index.md)
+
 Search by author! You may have been referred to this page to view someone's work. Check the contributions that each autor has made to this repository.
 
 1. [lpardosixtos](Pardo.md)
