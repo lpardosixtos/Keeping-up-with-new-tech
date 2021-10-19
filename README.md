@@ -1,4 +1,4 @@
-## Welcome to our study blog!
+## [Welcome to our study blog!](https://lpardosixtos.github.io/Keeping-up-with-new-tech/)
 
 We are a group of friends that want to keep learning new technologies and their related theory. Each of us has been enthusiastic about research before, this is our effort to keep up with new tech that may or may not be related to our 9 to 5 jobs.
 
