@@ -17,6 +17,6 @@ In practice, the generator and discriminator are both parametrized as neural net
 
 Observe that one task is in charge of optimizing $G$ while the other takes care of only $D$. Once the the generator and the discriminator have been jointly trained, we cn use the generator alone to sample images from a noise vector. 
 
-We suggest that you visit this [DCGAN Pytorch Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) for a deeper explanation and som well written code. You can even run their code in [Google Colab!](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/e9c8374ecc202120dc94db26bf08a00f/dcgan_faces_tutorial.ipynb).
+We suggest that you visit this [DCGAN Pytorch Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html) for a deeper explanation and some well written code. You can even run their code in [Google Colab!](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/e9c8374ecc202120dc94db26bf08a00f/dcgan_faces_tutorial.ipynb).
 
 ## Conditioning GANs
